@@ -2,8 +2,9 @@
 - 🍑👀
 - 🌱 Front End and Back End Dev
 
-Courses that i have done:
+- Courses that i have done:
 https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert
+...
 
 <!---
 HUNG-rushb/HUNG-rushb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
