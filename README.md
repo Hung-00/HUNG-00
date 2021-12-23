@@ -1,14 +1,6 @@
-- 👋 Duy Hưng
-- 🍑👀
-- 🌱 Front End and Back End Dev
-
 ## Courses that i have done:
 https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert  </br>
 ...
-
-<!---
-HUNG-rushb/HUNG-rushb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
@@ -78,9 +70,9 @@ You can click the Preview link to take a look at your changes.
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Credits: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last Edited on: 04/09/2021
+Last Edited on: 23/12/2021
 
---->
+
 
