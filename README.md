@@ -30,6 +30,9 @@
 ## Finished Course: 
 ### Basic Web
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="c" width="20" height="20"/> ![CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+-  ![10 Mega Responsive Websites with HTML, CSS, and JavaScript)](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
