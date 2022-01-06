@@ -30,7 +30,9 @@
 ## Finished Course: 
 ### Basic Web
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="c" width="20" height="20"/> ![CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="c" width="20" height="20"/> ![The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 -  ![10 Mega Responsive Websites with HTML, CSS, and JavaScript)](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+-  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duyhung.chase/)
 
 
 
