@@ -1,5 +1,3 @@
-<!-- <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1> -->
-
 <h1 align="center">Hi 👋, I'm Trịnh Duy Hưng</h1>
 <h3 align="center">College student from Viet Nam.</h3>
 
@@ -9,9 +7,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -72,9 +67,4 @@
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](       )
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
-
-
-
-
-
-Last Edited on: 24/12/2021.
+Last Edited on: 11/01/2022.
