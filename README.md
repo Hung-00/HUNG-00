@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 📖 I’m currently studying at ![Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology&client=firefox-b-d&biw=1525&bih=708&sxsrf=AOaemvI423Ko4kmdVeAgV-UTzXYF0fn_Mw%3A1640406629452&ei=ZZ7GYeaGG9Hbz7sP5uGxgAc&ved=0ahUKEwimzb3zjv70AhXR7XMBHeZwDHAQ4dUDCA0&oq=Ho+Chi+Minh+City+University+of+Technology&gs_lcp=Cgdnd3Mtd2l6EAwyBQguEIAEMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQRxCwAzoHCAAQsAMQQzoKCC4QyAMQsAMQQzoQCC4QxwEQrwEQyAMQsAMQQ0oECEEYAEoECEYYAVD6A1j6A2DJDmgBcAJ4AIABkQGIAZEBkgEDMC4xmAEAoAECoAEByAEUwAEB&sclient=gws-wiz) 
+- 📖 I’m currently studying at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology&client=firefox-b-d&biw=1525&bih=708&sxsrf=AOaemvI423Ko4kmdVeAgV-UTzXYF0fn_Mw%3A1640406629452&ei=ZZ7GYeaGG9Hbz7sP5uGxgAc&ved=0ahUKEwimzb3zjv70AhXR7XMBHeZwDHAQ4dUDCA0&oq=Ho+Chi+Minh+City+University+of+Technology&gs_lcp=Cgdnd3Mtd2l6EAwyBQguEIAEMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQRxCwAzoHCAAQsAMQQzoKCC4QyAMQsAMQQzoQCC4QxwEQrwEQyAMQsAMQQ0oECEEYAEoECEYYAVD6A1j6A2DJDmgBcAJ4AIABkQGIAZEBkgEDMC4xmAEAoAECoAEByAEUwAEB&sclient=gws-wiz) 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,8 +24,8 @@
 
 ## Finished Course: 
 ### Basic Web
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="c" width="20" height="20"/> ![CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="c" width="20" height="20"/> ![The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="c" width="20" height="20"/> [CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="c" width="20" height="20"/> [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 -  ![10 Mega Responsive Websites with HTML, CSS, and JavaScript)](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 -  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duyhung.chase/)
 
@@ -67,4 +67,5 @@
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](       )
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
+
 Last Edited on: 11/01/2022.
