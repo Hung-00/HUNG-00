@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trịnh Duy Hưng</h1>
 <h3 align="center">College student from Viet Nam.</h3>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 📖 I’m currently studying at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology&client=firefox-b-d&biw=1525&bih=708&sxsrf=AOaemvI423Ko4kmdVeAgV-UTzXYF0fn_Mw%3A1640406629452&ei=ZZ7GYeaGG9Hbz7sP5uGxgAc&ved=0ahUKEwimzb3zjv70AhXR7XMBHeZwDHAQ4dUDCA0&oq=Ho+Chi+Minh+City+University+of+Technology&gs_lcp=Cgdnd3Mtd2l6EAwyBQguEIAEMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQRxCwAzoHCAAQsAMQQzoKCC4QyAMQsAMQQzoQCC4QxwEQrwEQyAMQsAMQQ0oECEEYAEoECEYYAVD6A1j6A2DJDmgBcAJ4AIABkQGIAZEBkgEDMC4xmAEAoAECoAEByAEUwAEB&sclient=gws-wiz) 
 - 🌱 I’m currently learning Computer Science, looking forward to be a Web Developer.
@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## By the way here are some of my statistics 🚀
 ![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight)
@@ -20,7 +20,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Finished Course: 
 ### Basic Web
@@ -32,7 +32,7 @@
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact me : 
 
