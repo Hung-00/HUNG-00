@@ -2,7 +2,7 @@
 <h3 align="center">College student from Viet Nam.</h3>
 
 <p align="center">
-  <img src="./bitexco.jpg" style="max-width: 100px;">
+  <img src="./Pictures/bitexco.jpg" style="max-width: 100px;">
 </p>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
