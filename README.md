@@ -16,13 +16,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## By the way here are some of my statistics 🚀
-![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight)
-</br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight" alt="mystreak"/>
-</br>
-![DuyHung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+  
+<!--   ![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" />
+  
+  </br>
+  </br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight" alt="mystreak"/>
+  
+  </br>
+  </br>
+  
+<!--   ![DuyHung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" />
 
+  
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
