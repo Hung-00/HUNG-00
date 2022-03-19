@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trịnh Duy Hưng</h1>
-<h3 align="center">College student from Viet Nam.</h3>
+<h3 align="center">College student from Viet Nam 🇻🇳.</h3>
 
 <p align="center">
   <img src="./Pictures/bitexco.jpg" style="max-width: 100px;">
