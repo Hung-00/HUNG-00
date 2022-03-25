@@ -60,6 +60,7 @@
 
 ## Some of my projects : 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="20" height="20"/> [Personal Website (duyhung.xyz)](https://duyhung.xyz)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Mapty App from JS Course](https://java-script-learning-dju7ntb99-hung-rushb.vercel.app/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  width="20" height="20"/> [Nhà hàng Món Việt](https://project-software-technology-bku-2021.vercel.app/home)
 
 
