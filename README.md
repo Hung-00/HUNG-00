@@ -69,6 +69,7 @@
 ## Certificates : 
 ### Udemy
 -  [Git](https://www.udemy.com/certificate/UC-fec869f1-cb48-4a03-b2d1-3930b8717953/)
+-  [Web design](https://www.udemy.com/certificate/UC-b9d97781-7eab-486c-bcfb-b1aba8036025/)
 
 ### Hackerrank
 
