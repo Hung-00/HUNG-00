@@ -61,7 +61,7 @@
 ## Some of my projects : 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="20" height="20"/> [Personal Website (duyhung.xyz)](https://duyhung.xyz)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Mapty App from JS Course](https://java-script-learning.vercel.app/)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  width="20" height="20"/> [Nhà hàng Món Việt](https://project-software-technology-bku-2021.vercel.app/home)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  width="20" height="20"/> [Nhà hàng Món Việt (Đồ án năm 3)](https://project-software-technology-bku-2021.vercel.app/home)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -106,4 +106,4 @@
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last Edited on: 22/03/2022.
+Last Edited on: 26/03/2022.
