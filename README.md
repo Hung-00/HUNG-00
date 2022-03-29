@@ -73,7 +73,7 @@
 ### Hackerrank
 
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact me 📇
 
@@ -94,8 +94,10 @@
 [![CSGO Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
 [![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)]()
 
+<!-- <p align='center'>
+  <img src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif" style="max-width: 100px;"> 
+</p> -->
 
-<img src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif" style="max-width: 100px;">
 <!-- 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](       )
 
