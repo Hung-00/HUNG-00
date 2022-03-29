@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Finished or Learning Course: 
+## Finished or Learning Course 🎓
 ### Web
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20"/> [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"/> [CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
@@ -58,7 +58,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Some of my projects : 
+## Some of my projects 📁
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="20" height="20"/> [Personal Website (duyhung.xyz)](https://duyhung.xyz)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Mapty App from JS Course (deploy with Netlify)](https://java-script-learning.vercel.app/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  width="20" height="20"/> [Nhà hàng Món Việt (Đồ án năm 3)](https://project-software-technology-bku-2021.vercel.app/home)
@@ -66,7 +66,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Certificates : 
+## Certificates 📜
 ### Udemy
 -  [Git](https://www.udemy.com/certificate/UC-fec869f1-cb48-4a03-b2d1-3930b8717953/)
 -  [Web design](https://www.udemy.com/certificate/UC-b9d97781-7eab-486c-bcfb-b1aba8036025/)
@@ -76,7 +76,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Contact me : 
+## Contact me 📇
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duyhung.chase/) -->
 <!-- [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DuyHungVN) -->
