@@ -27,7 +27,8 @@
   </br>
   </br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/> -->
+  <img src="https://hung-streak-stat.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/>
   
   </br>
   </br>
