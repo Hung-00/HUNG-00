@@ -33,7 +33,17 @@
   
 <!--   ![DuyHung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" />
+  
+  </br>
+  </br>
+  
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" /> -->
+ 
+<!--   </br>
+  </br> -->
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" />
   
 </p>
 
@@ -112,4 +122,8 @@
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last Edited on: 26/03/2022.
+Last Edited on: 05/04/2022.
+
+
+
+
