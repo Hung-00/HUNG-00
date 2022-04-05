@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trịnh Duy Hưng</h1>
-<h3 align="center">College student from Viet Nam 🇻🇳.</h3>
+<h3 align="center">College student from Viet Nam 🇻🇳. </h3>
 
 <p align="center">
   <img src="./Pictures/bitexco.jpg" style="max-width: 100px;">
@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## By the way here are some of my statistics 🚀
+## By the way here are some of my statistics 🚀  <img src="https://komarev.com/ghpvc/?username=HUNG-rushb">
 <p align="center">
   
 <!--   ![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight) -->
