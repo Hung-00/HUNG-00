@@ -33,15 +33,13 @@
   
 <!--   ![DuyHung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" />
-  <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=discord&row=2&column=4" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=tokyonight&rank=SECRET,S,AA,A&row=2&column=3" /> -->
   
   </br>
   </br>
   
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=radical&rank=SECRET,S,AA,A&row=2&column=3" /> -->
- 
-<!--   </br>
-  </br> -->
+
   
   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" />
   
