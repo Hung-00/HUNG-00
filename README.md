@@ -21,7 +21,7 @@
 <p align="center">
   
 <!--   ![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" /> -->
   <img src="https://hung-git-stat2.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" />
  
   </br>
@@ -33,7 +33,8 @@
   </br>
   
 <!--   ![DuyHung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" /> -->
+  <img src="https://hung-git-stat2.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" />
   <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=discord&row=2&column=4" />
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=tokyonight&rank=SECRET,S,AA,A&row=2&column=3" /> -->
   
