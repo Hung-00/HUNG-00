@@ -22,11 +22,12 @@
   
 <!--   ![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight) -->
   <img src="https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" />
-  
+  <img src="https://hung-git-stat2.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" />
+ 
   </br>
   </br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/>
   
   </br>
   </br>
