@@ -2,7 +2,8 @@
 <h3 align="center">College student from Viet Nam 🇻🇳. </h3>
 
 <p align="center">
-  <img src="./Pictures/bitexco.jpg" style="max-width: 100px;">
+<!--   <img src="./Pictures/bitexco.jpg" style="max-width: 100px;"> -->
+  <img src="./Pictures/twilight.jpg" style="max-width: 100px;">
   <br/>
   <a href="https://goo.gl/maps/ZaKP4pWC1drZwviH6"><i>Thủ Thiêm Kite Park, District 2, HCM City (14/03/2022)</i></a>
 <!--   [Ho Chi Minh City University of Technology](https://goo.gl/maps/ZaKP4pWC1drZwviH6)  -->
