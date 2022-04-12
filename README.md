@@ -53,8 +53,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+  
 ## Finished or Learning Course 🎓
-### Web (Udemy)
+<details>
+    <summary>Web (Udemy)</summary><br/>
+
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20"/> [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"/> [CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" height="20"/> [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
@@ -65,9 +69,15 @@
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="20" height="20"/> [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  width="20" height="20"/> [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="20" height="20"/> [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+  
+ </details>
+ 
+ <details>
+    <summary>Mobile (Udemy)</summary><br/>
 
-### Mobile
 -  <img src="https://reactnative.dev/img/header_logo.svg"  width="20" height="20"/> [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/)
+  
+ </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -127,6 +137,8 @@
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
 Last Edited on: 05/04/2022.
+
+
 
 
 
