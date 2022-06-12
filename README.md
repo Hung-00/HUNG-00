@@ -100,10 +100,17 @@
 -  [JavaScript](https://www.udemy.com/certificate/UC-130f9471-7466-4357-8715-3a090a250901/)
 -  [CSS](https://drive.google.com/file/d/1SLIl2w9MLHn-ELcM0HpfEIYhYHn_L1mp/view?usp=sharing)
 -  [Styled Components](https://drive.google.com/file/d/1KQJoUJz_ONAFh11VgKoh0e17O837C-W-/view?usp=sharing)
+</details>
+  
+<details>
+    <summary>Amazon Web Service</summary><br/>
+  
+-  [AWS Cloud Practitioner](https://drive.google.com/file/d/1l4YLX_M5P5fUCzPv_p6tA5UTB3DjzpZ5/view?usp=sharing)
   
  </details>
  
-### Hackerrank
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -143,7 +150,7 @@
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last Edited on: 22/04/2022.
+Last Edited on: 12/06/2022.
 
 
 
