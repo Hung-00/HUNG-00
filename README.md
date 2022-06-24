@@ -92,6 +92,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Certificates 📜
+[My certificates](https://www.credly.com/users/duy-hung-trinh)
+
 <details>
     <summary>Udemy</summary><br/>
   
@@ -106,9 +108,16 @@
 <details>
     <summary>Amazon Web Service</summary><br/>
   
--  [AWS Cloud Practitioner](https://drive.google.com/file/d/1l4YLX_M5P5fUCzPv_p6tA5UTB3DjzpZ5/view?usp=sharing)
+-  [AWS Cloud Practitioner CLF-01](https://drive.google.com/file/d/1l4YLX_M5P5fUCzPv_p6tA5UTB3DjzpZ5/view?usp=sharing)
   
- </details>
+</details>
+
+<details>
+    <summary>Microsoft Azure</summary><br/>
+  
+-  [Azure Fundamentals AZ-900](https://drive.google.com/file/d/1PNijNlGxvb1ZxjG-MoQT6gXi-89FLwGb/view?usp=sharing)
+  
+</details>
  
 
 
@@ -151,7 +160,7 @@
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last Edited on: 12/06/2022.
+Last Edited on: 24/06/2022.
 
 
 
