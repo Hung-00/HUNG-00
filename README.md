@@ -95,7 +95,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Certificates 📜
-[My certificates](https://www.credly.com/users/duy-hung-trinh)
+[My cloud certificates](https://www.credly.com/users/duy-hung-trinh)
 
 <details>
     <summary>Udemy</summary><br/>
@@ -108,6 +108,7 @@
 -  [Styled Components](https://drive.google.com/file/d/1KQJoUJz_ONAFh11VgKoh0e17O837C-W-/view?usp=sharing)
 </details>
   
+  <!-- 
 <details>
     <summary>Amazon Web Service</summary><br/>
   
@@ -120,7 +121,7 @@
   
 -  [Azure Fundamentals AZ-900](https://drive.google.com/file/d/1PNijNlGxvb1ZxjG-MoQT6gXi-89FLwGb/view?usp=sharing)
   
-</details>
+</details> -->
  
 
 
