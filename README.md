@@ -95,7 +95,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Certificates 📜
+[![](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://www.credly.com/users/duy-hung-trinh)
+
 [My cloud certificates](https://www.credly.com/users/duy-hung-trinh)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
+
 
 <details>
     <summary>Udemy</summary><br/>
