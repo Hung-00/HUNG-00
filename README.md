@@ -12,9 +12,9 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 📖 I’m currently studying at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology&client=firefox-b-d&biw=1525&bih=708&sxsrf=AOaemvI423Ko4kmdVeAgV-UTzXYF0fn_Mw%3A1640406629452&ei=ZZ7GYeaGG9Hbz7sP5uGxgAc&ved=0ahUKEwimzb3zjv70AhXR7XMBHeZwDHAQ4dUDCA0&oq=Ho+Chi+Minh+City+University+of+Technology&gs_lcp=Cgdnd3Mtd2l6EAwyBQguEIAEMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQRxCwAzoHCAAQsAMQQzoKCC4QyAMQsAMQQzoQCC4QxwEQrwEQyAMQsAMQQ0oECEEYAEoECEYYAVD6A1j6A2DJDmgBcAJ4AIABkQGIAZEBkgEDMC4xmAEAoAECoAEByAEUwAEB&sclient=gws-wiz) 
-- 🌱 I’m currently learning Computer Science, looking forward to be a Front-end Developer.
-- I love [Bún bò Huế](https://www.google.com/search?q=b%C3%BAn+b%C3%B2+hu%E1%BA%BF) and [Mì Quảng](https://www.google.com/search?q=m%C3%AC+qu%E1%BA%A3ng).
+- 📖🏫 I’m currently studying at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology) 
+- 💻🌐 I’m learning Balchelor Computer Science, looking forward to be a Front-end Developer.
+- 😋🥗 I love [Bún bò Huế](https://www.google.com/search?q=b%C3%BAn+b%C3%B2+hu%E1%BA%BF) and [Mì Quảng](https://www.google.com/search?q=m%C3%AC+qu%E1%BA%A3ng).
 
 
 
