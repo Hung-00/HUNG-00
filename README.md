@@ -56,7 +56,7 @@
 
 
   
-## Finished or Learning Course 🎓
+<!-- ## Finished or Learning Course 🎓
 <details>
     <summary>Web (Udemy)</summary><br/>
 
@@ -80,7 +80,7 @@
   
  </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## Some of my projects 📁
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="20" height="20"/> [Personal Website (duyhung.xyz)](https://duyhung.xyz)
@@ -111,7 +111,7 @@
 -  [ReactJS](https://www.udemy.com/certificate/UC-7868e56b-d41c-42bf-88e4-cf58d43eaea5/)
 -  [JavaScript](https://www.udemy.com/certificate/UC-130f9471-7466-4357-8715-3a090a250901/)
 -  [CSS](https://drive.google.com/file/d/1SLIl2w9MLHn-ELcM0HpfEIYhYHn_L1mp/view?usp=sharing)
--  [Styled Components](https://drive.google.com/file/d/1KQJoUJz_ONAFh11VgKoh0e17O837C-W-/view?usp=sharing)
+<!-- -  [Styled Components](https://drive.google.com/file/d/1KQJoUJz_ONAFh11VgKoh0e17O837C-W-/view?usp=sharing) -->
 </details>
   
   <!-- 
