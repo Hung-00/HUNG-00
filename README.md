@@ -47,7 +47,9 @@
   </br>
   </br>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&theme=react-dark" />
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HUNG-rushb&theme=react" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&theme=react-dark" /> -->
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /> -->
   
 </p>
