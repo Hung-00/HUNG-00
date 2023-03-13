@@ -31,12 +31,15 @@
   </br>
   </br>
   
-  <img src="[https://streak-stats.demolab.com/?user=HUNG-rushb&theme=react](https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HUNG-rushb&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D"/>
 <!--   <img src="https://hung-streak-stat.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/> -->
-  
+   
   </br>
   </br>
-  
+   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HUNG-rushb?cardType=level-alternate&theme=react&preferLogin=true)](https://git.io/awesome-stats-card"/>
+  </br>
+  </br>
+
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" /> -->
 <!--   <img src="https://hung-git-stat2.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" /> -->
   <img src="https://github.com/HUNG-rushb/hung-stat-vip/blob/master/generated/languages.svg"/>
