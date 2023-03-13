@@ -31,7 +31,7 @@
   </br>
   </br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/>
+  <img src="[https://streak-stats.demolab.com/?user=HUNG-rushb&theme=react](https://github-readme-streak-stats.herokuapp.com/?user=HUNG-rushb&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D)"/>
 <!--   <img src="https://hung-streak-stat.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/> -->
   
   </br>
