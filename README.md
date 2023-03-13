@@ -14,7 +14,7 @@
 
 - 📖🏫 I’m currently studying at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology) 
 - 💻🌐 I’m learning Balchelor Computer Science, and working as a Front-end Developer.
-- 😋🥗 I love [Bún bò Huế](https://www.google.com/search?q=b%C3%BAn+b%C3%B2+hu%E1%BA%BF) and [Mì Quảng](https://www.google.com/search?q=m%C3%AC+qu%E1%BA%A3ng).
+- 😋🥗 I love [Vietnamese cuisine](https://www.google.com/search?client=firefox-b-d&q=vietnam+cuisine), like [Bún bò Huế](https://www.google.com/search?q=b%C3%BAn+b%C3%B2+hu%E1%BA%BF) and [Mì Quảng](https://www.google.com/search?q=m%C3%AC+qu%E1%BA%A3ng), and many many more other dishes.
 
 
 
