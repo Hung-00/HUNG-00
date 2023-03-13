@@ -36,7 +36,9 @@
    
   </br>
   </br>
-   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HUNG-rushb?cardType=level-alternate&theme=react&preferLogin=true)](https://git.io/awesome-stats-card"/>
+  
+   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HUNG-rushb?cardType=level-alternate&theme=react&preferLogin=true"/>
+  
   </br>
   </br>
 
