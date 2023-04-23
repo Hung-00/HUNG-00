@@ -6,7 +6,7 @@
   <img src="./Pictures/twilight.jpg" style="max-width: 100px;">
   <br/>
 <!--   <a href="https://goo.gl/maps/ZaKP4pWC1drZwviH6"><i>Thủ Thiêm Kite Park, District 2, HCM City (14/03/2022)</i></a> -->
-  <a href="https://www.google.com/maps/place/B%C3%A3i+Th%E1%BA%A3+Di%E1%BB%81u+Chill/@10.781835,106.7159303,16.61z/data=!4m6!3m5!1s0x31752fe434c860fb:0xf79bc7de9b7e629e!8m2!3d10.7778693!4d106.7161284!16s%2Fg%2F11shwb37bq"><i>Thủ Thiêm Kite Park, District 2, HCM City (April 10th, 2022)</i></a>
+  <a href="https://www.google.com/maps/place/B%C3%A3i+Th%E1%BA%A3+Di%E1%BB%81u+Chill/@10.781835,106.7159303,16.61z/data=!4m6!3m5!1s0x31752fe434c860fb:0xf79bc7de9b7e629e!8m2!3d10.7778693!4d106.7161284!16s%2Fg%2F11shwb37bq" target="_blank"><i>Thủ Thiêm Kite Park, District 2, HCM City (April 10th, 2022)</i></a>
 <!--   [Ho Chi Minh City University of Technology](https://goo.gl/maps/ZaKP4pWC1drZwviH6)  -->
 </p>
   
