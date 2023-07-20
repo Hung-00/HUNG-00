@@ -112,7 +112,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
 
 
-<details>
+<!-- <details>
     <summary>Udemy</summary><br/>
   
 -  [Git](https://www.udemy.com/certificate/UC-fec869f1-cb48-4a03-b2d1-3930b8717953/)
@@ -120,8 +120,8 @@
 -  [ReactJS](https://www.udemy.com/certificate/UC-7868e56b-d41c-42bf-88e4-cf58d43eaea5/)
 -  [JavaScript](https://www.udemy.com/certificate/UC-130f9471-7466-4357-8715-3a090a250901/)
 -  [CSS](https://drive.google.com/file/d/1SLIl2w9MLHn-ELcM0HpfEIYhYHn_L1mp/view?usp=sharing)
-<!-- -  [Styled Components](https://drive.google.com/file/d/1KQJoUJz_ONAFh11VgKoh0e17O837C-W-/view?usp=sharing) -->
-</details>
+ -  [Styled Components](https://drive.google.com/file/d/1KQJoUJz_ONAFh11VgKoh0e17O837C-W-/view?usp=sharing) 
+</details> -->
   
   <!-- 
 <details>
@@ -158,10 +158,10 @@
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HUNG-rushb)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~duyhungvn)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgHEoBQixaDYW8AyVeA9yoQ)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.facebook.com/duyhung.chase/)
+<!-- [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.facebook.com/duyhung.chase/)-->
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
 [![CSGO Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
-[![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)]()
+<!-- [![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)]()    -->
 
 <!-- <p align='center'>
   <img src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif" style="max-width: 100px;"> 
