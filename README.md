@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Trịnh Duy Hưng</h1>
-<h3 align="center">College student from Vietnam. </h3>
+<h3 align="center">Cloud Engineer</h3>
 
 <p align="center">
 <!--   <img src="./Pictures/bitexco.jpg" style="max-width: 100px;"> -->
   <img src="./Pictures/twilight.jpg" style="max-width: 100px;">
   <br/>
 <!--   <a href="https://goo.gl/maps/ZaKP4pWC1drZwviH6"><i>Thủ Thiêm Kite Park, District 2, HCM City (14/03/2022)</i></a> -->
-  <a href="https://www.google.com/maps/place/B%C3%A3i+Th%E1%BA%A3+Di%E1%BB%81u+Chill/@10.781835,106.7159303,16.61z/data=!4m6!3m5!1s0x31752fe434c860fb:0xf79bc7de9b7e629e!8m2!3d10.7778693!4d106.7161284!16s%2Fg%2F11shwb37bq" target="_blank"><i>Thủ Thiêm Kite Park, District 2, HCM City (April 10th, 2022)</i></a>
+  <a href="https://www.google.com/maps/place/B%C3%A3i+Th%E1%BA%A3+Di%E1%BB%81u+Chill/@10.781835,106.7159303,16.61z/data=!4m6!3m5!1s0x31752fe434c860fb:0xf79bc7de9b7e629e!8m2!3d10.7778693!4d106.7161284!16s%2Fg%2F11shwb37bq" target="_blank"><i>Thủ Thiêm Kite Park, District 2, Saigon (April 10th, 2022)</i></a>
 <!--   [Ho Chi Minh City University of Technology](https://goo.gl/maps/ZaKP4pWC1drZwviH6)  -->
 </p>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 📖🏫 I’m currently studying at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology) 
-- 💻🌐 I’m learning Balchelor Computer Science, and working as a Front-end Developer, wiling to learn more about DevOps and Cloud.
-- 😋🥗 I love [Vietnamese cuisine](https://www.google.com/search?client=firefox-b-d&q=vietnam+cuisine), like [Bún bò Huế](https://www.google.com/search?q=b%C3%BAn+b%C3%B2+hu%E1%BA%BF) and [Mì Quảng](https://www.google.com/search?q=m%C3%AC+qu%E1%BA%A3ng), and many many more other dishes.
+- 💻🌐 I have finished Balchelor Computer Science at [Ho Chi Minh City University of Technology](https://www.google.com/search?q=Ho+Chi+Minh+City+University+of+Technology),
+- I used to works as a Software Developer for a year and a half, currently working as a Cloud Engineer, wiling to learn more about DevOps and Cloud.
+- 😋🥗 I love [Vietnamese cuisine](https://www.google.com/search?client=firefox-b-d&q=vietnam+cuisine), like [Bún bò Huế](https://www.google.com/search?q=b%C3%BAn+b%C3%B2+hu%E1%BA%BF) and [Mì Quảng](https://www.google.com/search?q=m%C3%AC+qu%E1%BA%A3ng), and many many more.
 
 
 
@@ -150,12 +150,12 @@
 <!-- [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DuyHungVN) -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-trinh/)
 [![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/hung-trinh-19/)
-[![SoloLearn Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/14650943)
+<!-- [![SoloLearn Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/14650943) -->
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tdhtp2016)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user0723HE/)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/hung-rushb)
 [![Expo Badge](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@hung.trinhrushbcyka)
-[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HUNG-rushb)
+<!-- [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HUNG-rushb) -->
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~duyhungvn)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgHEoBQixaDYW8AyVeA9yoQ)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
@@ -181,7 +181,7 @@
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last Edited on: 14/03/2023.
+Last Edited on: 16/04/2024.
 
 
 
