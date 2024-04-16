@@ -148,26 +148,19 @@
 
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duyhung.chase/) -->
 <!-- [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DuyHungVN) -->
+<!-- [![SoloLearn Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/14650943) -->
+<!-- [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HUNG-rushb) -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-trinh/)
 [![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/hung-trinh-19/)
-<!-- [![SoloLearn Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/14650943) -->
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tdhtp2016)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user0723HE/)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/hung-rushb)
 [![Expo Badge](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@hung.trinhrushbcyka)
-<!-- [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HUNG-rushb) -->
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~duyhungvn)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgHEoBQixaDYW8AyVeA9yoQ)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
 [![CSGO Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
 [![Wiki Badge](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia)](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Duy_Hungg)
-
-<!-- [![Binance Badge](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)]()    -->
-<!-- [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.facebook.com/duyhung.chase/)-->
-
-<!-- <p align='center'>
-  <img src="https://i.gifer.com/origin/08/089af74235a38edcc7b433321f0a5472_w200.gif" style="max-width: 100px;"> 
-</p> -->
 
 <!-- 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](       )
