@@ -33,6 +33,6 @@ jobs:
         with:
           commit_message: "grid snake"
           file_pattern: 'dist/*.svg'
-          commit_user_name: HUNG-rushb
+          # commit_user_name: HUNG-rushb
           # commit_user_email: defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: Duy Hung # defaults to author of the commit that triggered the run
+          # commit_author: Trịnh Duy Hung # defaults to author of the commit that triggered the run
