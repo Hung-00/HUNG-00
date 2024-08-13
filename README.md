@@ -29,7 +29,8 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&theme=react-dark" /> -->
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /> -->
 
-  ![Grid-Snake](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/dist/grid-snake.svg)
+  ![snake](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/dist/grid-snake.svg)
+  ![contribute](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/profile-3d-contrib/profile-night-green.svg)
 
   </br>
   </br>
