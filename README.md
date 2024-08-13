@@ -13,49 +13,40 @@
 - I used to works as a Software Developer for a year and a half, currently working as a Cloud Engineer, wiling to learn more about DevOps and Cloud Computing.
 
 
-## By the way here are some of my statistics 🚀  <img src="https://komarev.com/ghpvc/?username=HUNG-rushb">
 <p align="center">
-  
-<!--   ![DuyHung's github stats](https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight) -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" /> -->
 <!--   <img src="https://hung-git-stat2.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" /> -->
- <!--  <img src="https://github.com/HUNG-rushb/hung-stat-vip/blob/master/generated/overview.svg"/> -->
-   
-  
+<!--  <img src="https://github.com/HUNG-rushb/hung-stat-vip/blob/master/generated/overview.svg"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HUNG-rushb&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D"/>
-<!--   <img src="https://hung-streak-stat.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/> -->
-   
+<!--   <img src="https://hung-streak-stat.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/> -->  
   </br>
   </br>
-  
-   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HUNG-rushb?cardType=level-alternate&theme=react&preferLogin=true"/>
-
-
+<!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HUNG-rushb?cardType=level-alternate&theme=react&preferLogin=true"/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" /> -->
 <!--   <img src="https://hung-git-stat2.vercel.app/api/top-langs/?username=HUNG-rushb&theme=tokyonight&layout=compact&langs_count=10" /> -->
- <!--  <img src="https://github.com/HUNG-rushb/hung-stat-vip/blob/master/generated/languages.svg"/> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=discord&row=2&column=4" />
-  
+<!--  <img src="https://github.com/HUNG-rushb/hung-stat-vip/blob/master/generated/languages.svg"/> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=discord&row=2&column=4" /> -->
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=HUNG-rushb&theme=tokyonight&rank=SECRET,S,AA,A&row=2&column=3" /> -->
-  
-  </br>
-  </br>
-  
-
-<!--  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HUNG-rushb&theme=react" /> -->
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&theme=react-dark" /> -->
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /> -->
-  
+
+  ![Grid-Snake](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/dist/grid-snake.svg)
+
+  </br>
+  </br>
+
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="HUNG-rushb's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 </p>
 
 
 
 ## Some of my projects 📁
+<details>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Mapty App from JS Course (deploy with Netlify)](https://java-script-learning.vercel.app/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Forkify App from JS Course (deploy with Netlify)](https://cool-souffle-b27fbd.netlify.app/)
 - <img src="https://play-lh.googleusercontent.com/PqQTAYAzJII7d8VJbHSp3HVbKdmCl0iVSLZ1uzuvNPX5bJnrhWE9tAz_XQuEvGULg50"  width="25" height="25"/> [Game 2048 (JavaScript, Just for fun)](https://glittery-sundae-df68ef.netlify.app/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  width="20" height="20"/> [Nhà hàng Món Việt (Đồ án năm 3)](https://sparkly-piroshki-7d4c5d.netlify.app)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="20" height="20"/> [Ứng dụng Smart Home (React Native, Đồ án năm 3)](https://expo.dev/@hung.trinhrushbcyka/smart-home?serviceType=classic&distribution=expo-go)
+</details>  
 
 ## Some AWS workshop
 - [S3 logging](https://hung-rushb.github.io/Workshop-1/)
