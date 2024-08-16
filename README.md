@@ -30,7 +30,7 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=HUNG-rushb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /> -->
 
   ![snake](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/dist/grid-snake.svg)
-  ![contribute](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/profile-3d-contrib/profile-night-green.svg)
+  <!-- ![contribute](https://github.com/HUNG-rushb/HUNG-rushb/blob/main/profile-3d-contrib/profile-night-green.svg) -->
 
   </br>
   </br>
