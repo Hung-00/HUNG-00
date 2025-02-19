@@ -18,7 +18,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.1.0
         with:
-          github_user_name: HUNG-rushb
+          github_user_name: HUNG-00
           outputs: |
             dist/grid-snake.svg
             dist/grid-snake-dark.svg?palette=github-dark
