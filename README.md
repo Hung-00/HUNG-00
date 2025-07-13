@@ -52,7 +52,7 @@
 ## Some AWS workshop
 - [S3 logging](https://hung-00.github.io/Workshop-1/)
 - [Simple Pipeline on AWS](https://hung-00.github.io/FCJ-Workshop-2/)
-- [AWS Control Design](https://hung-rushb.00.io/AWS-Control-Design-Workshop/)
+- [AWS Control Design](https://hung-00.io/AWS-Control-Design-Workshop/)
 
 
 
