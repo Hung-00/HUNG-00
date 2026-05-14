@@ -16,7 +16,7 @@
 <p align="center">
 <!--   <img src="https://hung-git-stat2.vercel.app/api?username=HUNG-rushb&show_icons=true&theme=tokyonight" /> -->
 <!--  <img src="https://github.com/HUNG-rushb/hung-stat-vip/blob/master/generated/overview.svg"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HUNG-rushb&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HUNG-00&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D"/>
 <!--   <img src="https://hung-streak-stat.herokuapp.com/?user=HUNG-rushb&theme=tokyonight"/> -->  
   </br>
   </br>
