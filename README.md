@@ -40,7 +40,7 @@
 
 
 
-## Some of my projects 📁
+ <!-- ## Some of my projects 📁
 <details>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Mapty App from JS Course (deploy with Netlify)](https://java-script-learning.vercel.app/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="20" height="20"/> [Forkify App from JS Course (deploy with Netlify)](https://cool-souffle-b27fbd.netlify.app/)
@@ -54,7 +54,7 @@
 - [Simple Pipeline on AWS](https://hung-00.github.io/FCJ-Workshop-2/)
 - [AWS Control Design](https://hung-00.github.io/AWS-Control-Design-Workshop/)
 
-
+-->
 
 
 ## Certificates 📜
@@ -67,10 +67,11 @@
 ## Contact me 📇
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-trinh/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tdhtp2016)
+
 [![CSGO Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/hungrushbcyka/)
 
 <!-- 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tdhtp2016)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tdhtp2016)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user0723HE/)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/hung-rushb)
@@ -81,7 +82,7 @@
 ------
 Credit: [Trịnh Duy Hưng](https://github.com/HUNG-rushb)
 
-Last edited on: June 10th, 2024.
+Last edited on: May 14th, 2026.
 
 
 
